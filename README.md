@@ -8,7 +8,7 @@ Using [api.abirhasan.wtf/captcha](https://api.abirhasan.wtf/captcha) for generat
 <a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram"></a>
 
 ### Heroku Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Emoji-Captcha-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kkverma25/Emoji-Captcha-Bot)
 
 ### Host Locally:
 ```shell
