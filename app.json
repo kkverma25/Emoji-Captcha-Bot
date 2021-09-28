@@ -1,15 +1,15 @@
 {
-    "name": "A Telegram Captcha Bot by @AbirHasan2005.",
-    "description": "A Telegram Bot for verifying new group members by Emojis Captcha. Made by @AbirHasan2005.",
+    "name": "A Telegram Captcha Bot 𝐃𝐄𝐏𝐋𝐎𝐘𝐄𝐃 𝐁𝐘    [𝐄𝐕𝐄𝐑𝐄𝐓𝐓](https://t.me/YOUR_DEVIL_DAD).",
+    "description": "A Telegram Bot for verifying new group members by Emojis Captcha. Made by 𝐄𝐕𝐄𝐑𝐄𝐓𝐓.",
     "keywords": [
         "telegram",
         "emoji",
         "captcha",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Emoji-Captcha-Bot",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://t.me/DevsZone",
+    "repository": "https://github.com/kkverma25/Emoji-Captcha-Bot",
+    "website": "https://telegram.dog/YOUR_DEVIL_DAD",
+    "success_url": "https://t.me/ABOUT_DEVIL_DAD",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
