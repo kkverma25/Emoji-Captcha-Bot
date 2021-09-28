@@ -24,7 +24,17 @@ Using [api.abirhasan.wtf/captcha](https://api.abirhasan.wtf/captcha) for generat
 <a href="https://t.me/DevsZone"><img src="https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram"></a>
 
 ### Heroku Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kkverma25/Emoji-Captcha-Bot)
+# deploy 
+
+* With HEROKU:
+
+<p align="center">
+
+   <a href = "https://heroku.com/deploy?template=https://github.com/kkverma25/Emoji-Captcha-Bot"><img src="https://telegra.ph/file/e4a131a8f6b1a779b0646.png" alt="Press to Takeoff" width="300px"></a>
+
+</p>
+
+<br>
 
 ### Host Locally:
 ```shell
