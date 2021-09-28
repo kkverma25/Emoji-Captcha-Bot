@@ -1,6 +1,22 @@
 # Emoji-Captcha-Bot
 A Telegram Bot which will ask new Group Members to verify them by solving an emoji captcha.
+<h2 align="center"><b>Owner: <a href="https://t.me/YOUR_DEVIL_DAD">𝐄𝐕𝐄𝐑𝐄𝐓𝐓</a></b></h2>
 
+<br>
+
+#With 𝐄𝐕𝐄𝐑𝐄𝐓𝐓:
+
+<p align="center">
+
+   <a href = "https://github.com/kkverma25/Instagram-Bot"><img src="https://telegra.ph/file/f6dd497221ff913d3b3d2.png" alt="Press to Takeoff" width="490px"></a>
+
+</p>
+
+<br>
+
+<h2 align="center"><b>Owner: <a href="https://t.me/YOUR_DEVIL_DAD">𝐄𝐕𝐄𝐑𝐄𝐓𝐓</a></b></h2>
+
+<br>
 ## About API:
 Using [api.abirhasan.wtf/captcha](https://api.abirhasan.wtf/captcha) for generating captcha. To request to API you will need Access Token `CAPTCHA_API_TOKEN`. For Access Token ask at [@DevsZone](https://t.me/DevsZone) or DM [@AkibHridoy](https://t.me/AkibHridoy).
 
